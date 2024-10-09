@@ -1,0 +1,7 @@
+C:\Users\ilkeb\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Calculator.exe.config
+C:\Users\ilkeb\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Calculator.exe
+C:\Users\ilkeb\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Calculator.pdb
+C:\Users\ilkeb\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\ilkeb\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ilkeb\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\Calculator.exe
+C:\Users\ilkeb\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\Calculator.pdb
